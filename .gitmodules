@@ -1,0 +1,3 @@
+[submodule "errant"]
+	path = errant
+	url = https://github.com/chrisjbryant/errant
